@@ -1,4 +1,3 @@
-Certainly! Here's a combined README file for your Temperature Converter project that includes both the project description and usage instructions:
 
 ```markdown
 # Temperature Converter
@@ -59,9 +58,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 
 
-- [Your Name](https://github.com/your-username)
+- Ajay Sriram R(https://github.com/ajaysriramr10)
 
 Happy temperature converting!
 ```
 
-Please replace `"https://github.com/your-username/temperature-converter.git"` with the actual URL of your project's repository, and add your name and a link to your GitHub profile in the "Author" section.
+
